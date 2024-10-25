@@ -1,5 +1,4 @@
-Hi, I’m @SusanneFeldhoff,
-Iam currently challanging myself with a Data Science Bootcamp at WBS Coding School. I am looking foward to learning about the benefits of github during the next weeks.
+Hi, my name is @SusanneFeldhoff and I am currently challanging myself with a Data Science Bootcamp at WBS Coding School. I am looking foward to learning about the benefits of github during the next weeks.
 All the best to everyone!
 
 
