@@ -1,4 +1,4 @@
-Hi, my name is @SusanneFeldhoff and I am currently challanging myself with a Data Science Bootcamp at WBS Coding School. I am looking foward to learning about the benefits of github during the next weeks.
+Hi, my name is @SusanneFeldhoff, I am a native German speaker and am currently challanging myself with a Data Science Bootcamp at WBS Coding School. My big goal is to contribute to creating equal opportunities for everyone in Germany and abroard through an efficent use of data. In this sense I aim to continuously leverage my technical abilities to deliver meaningful insights and foster sustainble innovation. Please take a look at ma LinkedIn profile and connect <www.linkedin.com/in/susanne-feldhoff>
 All the best to everyone!
 
 
